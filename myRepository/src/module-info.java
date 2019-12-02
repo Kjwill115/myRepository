@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Aragorn
+ *
+ */
+module myRepository {
+}
